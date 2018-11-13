@@ -1,8 +1,0 @@
-1. runcode.m 
- contains offline process and error test;
- 
-2. RBMonline.m
-Once offline is finished, perform RBMonline.m file to get RBM time
-
-3. FDMPB.m
-high-fidelity codes
